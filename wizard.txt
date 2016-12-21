@@ -7,7 +7,7 @@
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="Jenkins Kodi"
-url="https://www.dropbox.com/s/cio5lfr9hcujnga/jenkinskodi.zip?dl=0"
-img="https://github.com/xcplay02/jenkinskodi/blob/master/Cowboys256.png"
-fanart="https://github.com/xcplay02/jenkinskodi/blob/master/Cowboys960.png"
+url="https://dl.dropboxusercontent.com/u/65619620/Kodipublic/heinzkodi.zip"
+img="https://raw.githubusercontent.com/xcplay02/jenkinskodi/master/Cowboys256.png"
+fanart="https://raw.githubusercontent.com/xcplay02/jenkinskodi/master/Cowboys960.png"
 description="Jenkins Kodi Build"
