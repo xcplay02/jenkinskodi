@@ -6,8 +6,8 @@
 \pard\pardeftab720
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="Heinz Kodi"
+name="Jenkins Kodi"
 url="https://www.dropbox.com/s/cio5lfr9hcujnga/jenkinskodi.zip?dl=0"
-img="https://www.dropbox.com/s/lm4532t2pcp74bu/Cowboys256.png?dl=0"
-fanart="https://www.dropbox.com/s/ik3nwwgy7r6b2t4/Cowboys960.png?dl=0"
+img="https://github.com/xcplay02/jenkinskodi/blob/master/Cowboys256.png"
+fanart="https://github.com/xcplay02/jenkinskodi/blob/master/Cowboys960.png"
 description="Jenkins Kodi Build"
